@@ -7,5 +7,9 @@ public class Main {
         System.out.printf("Hello and welcome!");
 
 
-        }
     }
+    public int something() {
+
+    return 0;
+    };
+}
