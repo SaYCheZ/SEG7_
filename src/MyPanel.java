@@ -139,11 +139,7 @@ public class MyPanel extends JPanel {
         super.paintComponent(g);
 
 
-        g.setColor(Color.BLACK);
 
-        g.setFont(new Font("Arial", Font.BOLD, 16));
-
-        g.drawString("Drawing shapes using ArrayList", 10, 25);
 
 
         g.setColor(Color.BLUE);
